@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Coloring",
+  "base_artist": "マイです",
+  "createdAt": "2026-02-28T05:55:06.822871Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Coloring the void",
+      "artist": "M83",
+      "has_synced": true,
+      "path": "select/01_Coloring_the_void_M83.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Coloring The Void",
+      "artist": "M83",
+      "has_synced": true,
+      "path": "select/02_Coloring_The_Void_M83.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "My Coloring Book",
+      "artist": "Dusty Springfield",
+      "has_synced": false,
+      "path": "select/03_My_Coloring_Book_Dusty_Springfield.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "My Coloring Book",
+      "artist": "Barbra Streisand",
+      "has_synced": true,
+      "path": "select/04_My_Coloring_Book_Barbra_Streisand.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "God's Coloring Book",
+      "artist": "Dolly Parton",
+      "has_synced": false,
+      "path": "select/05_God's_Coloring_Book_Dolly_Parton.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "God's Coloring Book (Previously Unissued - Recorded 1971)",
+      "artist": "Dolly Parton",
+      "has_synced": false,
+      "path": "select/06_God's_Coloring_Book_(Previously_Unissued_-_Recorded_1971)_Dolly_Parton.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "My Coloring Book",
+      "artist": "Aretha Franklin",
+      "has_synced": true,
+      "path": "select/07_My_Coloring_Book_Aretha_Franklin.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "My Coloring Book",
+      "artist": "Brenda Lee",
+      "has_synced": true,
+      "path": "select/08_My_Coloring_Book_Brenda_Lee.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "My Coloring Book",
+      "artist": "Andy Williams",
+      "has_synced": true,
+      "path": "select/09_My_Coloring_Book_Andy_Williams.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Coloring Outside The Lines",
+      "artist": "MisterWives",
+      "has_synced": true,
+      "path": "select/10_Coloring_Outside_The_Lines_MisterWives.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Coloring Outside The Lines (PO Clean Edit)",
+      "artist": "MisterWives",
+      "has_synced": true,
+      "path": "select/11_Coloring_Outside_The_Lines_(PO_Clean_Edit)_MisterWives.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "My Coloring Book",
+      "artist": "Kitty Kallen",
+      "has_synced": false,
+      "path": "select/12_My_Coloring_Book_Kitty_Kallen.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Coloring Book",
+      "artist": "Blockhead",
+      "has_synced": false,
+      "path": "select/13_Coloring_Book_Blockhead.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Coloring the Void",
+      "artist": "M83",
+      "has_synced": false,
+      "path": "select/14_Coloring_the_Void_M83.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Coloring",
+      "artist": "マイです",
+      "has_synced": false,
+      "path": "select/pl_01_Coloring_マイです.txt"
+    }
+  ]
+}
